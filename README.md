@@ -29,4 +29,4 @@ En Game: se crea "siguienteJugador" y se colocar en lugar de la expresión entre
 
 
 ## Problema 6
-En Game: se crea "info" y "datos"
+En Game: se crea "info" y "datos".
